@@ -11,6 +11,6 @@ As an example, assume the input data is a matrix of pixels. The first layer typi
 
 This learning technique is a groundbreaking tool for processing large quantities of data, since the performance of the machine improves as it analyzes more data.  As the amount of data increases, the machine becomes more adept at recognizing even hidden patterns among the data. Because the machine is also learning from the processed data, it is able to perform feature extraction and abstraction automatically from the raw data with little to no human input.
 
-
+Practical Uses of Deep Learning
 
 
