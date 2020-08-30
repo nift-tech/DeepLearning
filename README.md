@@ -13,4 +13,7 @@ This learning technique is a groundbreaking tool for processing large quantities
 
 ### Practical Uses of Deep Learning
 
+Automatic Speech Recognition – All major commercial speech recognition systems (think your smart phone assistant) use a deep learning technique with recurrent neural networks currently being the most popular.
+
+
 
