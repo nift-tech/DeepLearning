@@ -17,3 +17,4 @@ Automatic Speech Recognition – All major commercial speech recognition systems
 Computer Vision – Images are used to train the machine to recognize features and now the machines are demonstrating “superhuman” accuracy for image recognition.
 Natural Language Processing – Modern deep learning techniques have led to improvements in translation and language modeling. Google Translate uses deep learning techniques to translate based on the semantics of an entire sentence instead of just memorizing phrase-to-phrase translations.
 
+Automatic Speech Recognition
