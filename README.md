@@ -30,5 +30,9 @@ Speech Recognition systems are split into two main categories; speaker dependent
 
 ![6804dee0-c510-4731-8a29-55de17b09d19](https://user-images.githubusercontent.com/57901189/91671869-950c8180-eb2a-11ea-9953-a77dfc0dd49e.png)
 
-Machine Learning and Speech Recognition
+### Machine Learning and Speech Recognition
+Neural Networks can be used to approach the task of automatic speech recognition with decent performance. The networks initially began with a limited skillset, in which they often were used in classifying short-time units such as isolated words and phonemes. However, over time, the neural networks' increase in complexity, as represented in LSTM networks, has led to increased performance.
+
+
+
 
