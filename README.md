@@ -24,7 +24,7 @@ Natural Language Processing – Modern deep learning techniques have led to impr
 ### What is Automatic Speech Recognition?
 Speech Recognition is a subfield of computational linguistics that is concerned with recognition and translation of spoken language into text by computers, sometimes referring to the process as "speech to text." The systems are the combination of influence from linguistics, computer science, and electrical engineering. The term "speech recognition" itself refers to the more broad process of translating spoken word into text, however subfields such as voice recognition and speaker identification are specialized to identify both the spoken content ad the identity of the speaker.
 
-How does Automatic Speech Recognition work?
+### How does Automatic Speech Recognition work?
 
 ![6804dee0-c510-4731-8a29-55de17b09d19](https://user-images.githubusercontent.com/57901189/91671869-950c8180-eb2a-11ea-9953-a77dfc0dd49e.png)
 
