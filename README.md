@@ -25,6 +25,8 @@ Natural Language Processing – Modern deep learning techniques have led to impr
 Speech Recognition is a subfield of computational linguistics that is concerned with recognition and translation of spoken language into text by computers, sometimes referring to the process as "speech to text." The systems are the combination of influence from linguistics, computer science, and electrical engineering. The term "speech recognition" itself refers to the more broad process of translating spoken word into text, however subfields such as voice recognition and speaker identification are specialized to identify both the spoken content ad the identity of the speaker.
 
 ### How does Automatic Speech Recognition work?
+Speech Recognition systems are split into two main categories; speaker dependent and speaker independent. Speaker dependent systems are structured such that they require training, sometimes referred to as "enrollment." This works by having a speaker reading text, or a series of isolated vocabulary, into the system. Then, the system will process the vocal recordings and associate them with the text library. Some speech recognition systems do not rely on vocal training and are known as speaker independent systems.
+
 
 ![6804dee0-c510-4731-8a29-55de17b09d19](https://user-images.githubusercontent.com/57901189/91671869-950c8180-eb2a-11ea-9953-a77dfc0dd49e.png)
 
