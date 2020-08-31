@@ -41,4 +41,4 @@ Another form of machine learning model used is called an Attention Based Model (
 A Recurrent Neural Network is a type of neural network that contains loops, allowing information to be stored within the network. In short, Recurrent Neural Networks use their reasoning from previous experiences to inform the upcoming events. Recurrent models are valuable in their ability to sequence vectors, which opens up the API to performing more complicated tasks. 
 
 
-
+How do Recurrent Neural Networks work?
