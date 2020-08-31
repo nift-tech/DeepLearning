@@ -42,5 +42,5 @@ A Recurrent Neural Network is a type of neural network that contains loops, allo
 
 ![9ce02363-a7d7-49a7-a9a4-0e02687e7356](https://user-images.githubusercontent.com/57901189/91778586-3d861880-ebf3-11ea-998d-53ab7f74a51b.jpg)
 
-How do Recurrent Neural Networks work?
+### How do Recurrent Neural Networks work?
 
