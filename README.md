@@ -76,8 +76,20 @@ This concept can best be understood with an example. Imagine the "simple" proble
 
 <img width="320" alt="b920b4b3-7347-4712-b1bd-068775ec4562" src="https://user-images.githubusercontent.com/57901189/91778849-19770700-ebf4-11ea-84f1-70593949f387.png">
 
-                          ####### (image is taken from a Google Tech Talk by Jeff Dean at Campus Seoul on March 7, 2016)
+####### (image is taken from a Google Tech Talk by Jeff Dean at Campus Seoul on March 7, 2016)
 
 
 
 After processing many training examples of cat images, the algorithm has a model of what elements, and their respective relationships, in an image are important to consider when deciding whether a cat is present in the picture or not. When evaluating a new image, the neural net compares the data points about the new image to its model, which is based off of all previous evaluations. It then uses some simple statistics to decides whether the image contains a cat or not based on how closely it matches the model.
+
+In this example, the layers of functions between the input and the output are what make up the neural network. In practice, the neural network is slightly more complicated than the image above shows. The following image captures the interaction between layers slightly better, but keep in mind that there are many variations of the relationships between nodes, or artificial neurons:
+
+![6ab1bb72-ad28-480e-bb1c-4dd419843762](https://user-images.githubusercontent.com/57901189/91778842-167c1680-ebf4-11ea-8885-73e0d54a34a7.png)
+
+
+### Applications of Neural Networks
+Neural networks can be applied to a broad range of problems and can assess many different types of input, including images, videos, files, databases, and more. They also do not require explicit programming to interpret the content of those inputs.
+
+Because of the generalized approach to problem solving that neural networks offer, there is virtually no limit to the areas that this technique can be applied. Some common applications of neural networks today, include image/pattern recognition, self driving vehicle trajectory prediction, facial recognition, data mining, email spam filtering, medical diagnosis, and cancer research. There are many more ways that neural nets are used today, and adoption is increasing rapidly. 
+
+
