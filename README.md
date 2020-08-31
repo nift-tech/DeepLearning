@@ -76,7 +76,7 @@ This concept can best be understood with an example. Imagine the "simple" proble
 
 <img width="320" alt="b920b4b3-7347-4712-b1bd-068775ec4562" src="https://user-images.githubusercontent.com/57901189/91778849-19770700-ebf4-11ea-84f1-70593949f387.png">
 
-####### (image is taken from a Google Tech Talk by Jeff Dean at Campus Seoul on March 7, 2016)
+   ###### (image is taken from a Google Tech Talk by Jeff Dean at Campus Seoul on March 7, 2016)
 
 
 
