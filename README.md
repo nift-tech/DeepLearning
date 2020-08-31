@@ -36,6 +36,6 @@ Neural Networks can be used to approach the task of automatic speech recognition
 
 Another form of machine learning model used is called an Attention Based Model (ASR). These systems attempt an end-to-end approach to speech recognition. For example, Carnegie Mellon University created a model dubbed the "Listen, Attend and Spell" (LAS). The model listens to the audio signal, then pays attention to different parts of the signal, before then spelling out the signal via transcript one letter at a time. Attention based models are able to process information that more traditional models cannot, such as pronunciation. Since the initial inception of the LAS model, additions have been supplemented to increase the abilities of the LAS model. For example, Google's DeepMind extended LAS to become a "Watch, Listen, Attend and Spell" model in which the network is able to read and decode lip reading, often surpassing human-level performance. 
 
-## What is a Recurrent Neural Network?
+### What is a Recurrent Neural Network?
 
 
