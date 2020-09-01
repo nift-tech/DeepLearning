@@ -80,9 +80,9 @@ There are many other approaches to search optimization, including beam search, s
 
 ### Other Artificial Intelligence Techniques
 
-Various approaches in artificial intelligence design and programming have been taken from concepts in logic programming and automated reasoning. These techniques allow programs to "reason" through problems.
+Various approaches in artificial intelligence design and programming have been taken from concepts in logic programming (https://deepai.org/machine-learning-glossary-and-terms/logic-programming) and automated reasoning (https://deepai.org/machine-learning-glossary-and-terms/automated-reasoning). These techniques allow programs to "reason" through problems.
 
-There have also been many models and approaches designed for situations where information is uncertain or incomplete. Some of these tools include Bayesian networks, hidden Markov models, Kalman filters, decision theory and analysis, and Markov decision processes. Even certain programming languages, like Prolog, have been adapted to be used in artificial intelligence applications.
+There have also been many models and approaches designed for situations where information is uncertain or incomplete. Some of these tools include Bayesian networks(https://deepai.org/machine-learning-glossary-and-terms/bayesian-network), hidden Markov models(https://deepai.org/machine-learning-glossary-and-terms/hidden-markov-model), Kalman filters (https://deepai.org/machine-learning-glossary-and-terms/kalman-filter), decision theory and analysis, and Markov decision processes (https://deepai.org/machine-learning-glossary-and-terms/markov-decision-process). Even certain programming languages, like Prolog, have been adapted to be used in artificial intelligence applications.
 
 # History of Artificial Intelligence
 
@@ -94,7 +94,7 @@ Works of fiction detailing inanimate beings that display consciousness date back
 
 ### Turing and Early Theory of Computation
 
-Study of the theory of computation suggested that machines would be able to simulate a wide range of deductive acts through binary operations. The Turing-Church thesis eventually proposed that any "effectively calculable function is a computable function", meaning that anything that a human can calculate through an algorithmic process, a machine can too calculate.
+Study of the theory of computation (https://deepai.org/machine-learning-glossary-and-terms/theory-of-computation) suggested that machines would be able to simulate a wide range of deductive acts through binary operations. The Turing-Church thesis eventually proposed that any "effectively calculable function is a computable function", meaning that anything that a human can calculate through an algorithmic process, a machine can too calculate.
 
 These ideas eventually led researchers in neurology and cybernetics to begin exploring the idea of building an electronic brain. Walter Pitts and Warren McCullouch formally proposed designs for artificial neurons in 1943.
 
