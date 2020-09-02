@@ -14,9 +14,12 @@ This learning technique is a groundbreaking tool for processing large quantities
 
 ### Practical Uses of Deep Learning
 
-Automatic Speech Recognition – All major commercial speech recognition systems (think your smart phone assistant) use a deep learning technique with recurrent neural networks currently being the most popular.
-Computer Vision (https://deepai.org/machine-learning-glossary-and-terms/computer-vision) – Images are used to train the machine to recognize features and now the machines are demonstrating “superhuman” accuracy for image recognition.
-Natural Language Processing (https://deepai.org/machine-learning-glossary-and-terms/natural-language-processing) – Modern deep learning techniques have led to improvements in translation and language modeling. Google Translate uses deep learning techniques to translate based on the semantics of an entire sentence instead of just memorizing phrase-to-phrase translations.
+##### Automatic Speech Recognition 
+– All major commercial speech recognition systems (think your smart phone assistant) use a deep learning technique with recurrent neural networks currently being the most popular.
+##### Computer Vision (https://deepai.org/machine-learning-glossary-and-terms/computer-vision) 
+– Images are used to train the machine to recognize features and now the machines are demonstrating “superhuman” accuracy for image recognition.
+##### Natural Language Processing (https://deepai.org/machine-learning-glossary-and-terms/natural-language-processing) 
+– Modern deep learning techniques have led to improvements in translation and language modeling. Google Translate uses deep learning techniques to translate based on the semantics of an entire sentence instead of just memorizing phrase-to-phrase translations.
 
 
 
