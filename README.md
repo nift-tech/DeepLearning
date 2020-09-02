@@ -1,13 +1,13 @@
 # Deep-Learnings
 
 
-*DL
+* DL
 
-*ML
+* ML
 
 * AI
 
-**RNN
+** RNN
 
 
 
