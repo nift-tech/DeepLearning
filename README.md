@@ -1,8 +1,10 @@
 # Deep-Learnings
 
 
-DL
-ML
-AI
+*DL
+
+*ML
+
+*AI
 
 
