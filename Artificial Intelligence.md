@@ -1,6 +1,6 @@
 # What is Artificial Intelligence?
 
-Artificial intelligence is the application of rapid data processing, machine learning, predictive analysis, and automation to simulate intelligent behavior and problem solving capabilities with machines and software.
+Artificial intelligence is the application of rapid data processing, machine learning (https://deepai.org/machine-learning-glossary-and-terms/machine-learning), predictive analysis, and automation to simulate intelligent behavior and problem solving capabilities with machines and software.
 
 It is intelligence of machines and computer programs, versus natural intelligence, which is intelligence of humans and animals. Machines and programs that use artificial intelligence are typically designed to read and interpret a data input and then respond to it by using predictive analytics or machine learning. 
 
@@ -28,7 +28,7 @@ Artificial intelligence is a growing component of the automotive industry. Many 
 
 ### Finance
 
-Financial institutions have been using artificial intelligence to analyze market trends and even automate trades based on various market indicators and triggers. Many banks and financial institutions have also been using AI algorithms and neural network systems to identify fraudulent bank and credit charges, and then trigger human managed investigations.
+Financial institutions have been using artificial intelligence to analyze market trends and even automate trades based on various market indicators and triggers. Many banks and financial institutions have also been using AI algorithms and neural network (https://deepai.org/machine-learning-glossary-and-terms/neural-network) systems to identify fraudulent bank and credit charges, and then trigger human managed investigations.
 
 ### Video Games
 
@@ -62,21 +62,21 @@ In order to fully understand how an artificial intelligence system quickly and "
 
 ### Neural Networks
 
-Neural networks  – or more specifically, artificial neural networks – are computing systems that progressively improve their ability to complete a task without specific programming on the task. The approach that these artificial neural networks use is based on the method that actual biological neural networks in human brains use to solve problems. Read more about artificial neural networks. 
+Neural networks  – or more specifically, artificial neural networks – are computing systems that progressively improve their ability to complete a task without specific programming on the task. The approach that these artificial neural networks use is based on the method that actual biological neural networks in human brains use to solve problems. Read more about artificial neural networks (https://deepai.org/machine-learning-glossary-and-terms/neural-network). 
 
 ### Statistical Learning and Classification
 
-A classifier is a function that uses pattern recognition and pattern matching to identify the closest match. In supervised learning, the classifier will attempt to match the pattern out of a limited set of options. In unsupervised learning, there is no predefined pattern that the classification function needs to be used with.
+A classifier (https://deepai.org/machine-learning-glossary-and-terms/classifier) is a function that uses pattern recognition (https://deepai.org/machine-learning-glossary-and-terms/pattern-recognition) and pattern matching (https://deepai.org/machine-learning-glossary-and-terms/pattern-matching) to identify the closest match. In supervised learning (https://deepai.org/machine-learning-glossary-and-terms/supervised-learning), the classifier will attempt to match the pattern out of a limited set of options. In unsupervised learning (https://deepai.org/machine-learning-glossary-and-terms/unsupervised-learning), there is no predefined pattern that the classification function needs to be used with.
 
-Classifiers are ideal for artificial intelligence applications because their predictive models are adjusted and improved as they process more new data. Read more about classifiers and statistical learning.
+Classifiers are ideal for artificial intelligence applications because their predictive models are adjusted and improved as they process more new data. Read more about classifiers and statistical learning (https://deepai.org/machine-learning-glossary-and-terms/classifier).
 
 ###  Optimized Search Tactics
 
-Typically exhaustively scanning through every possible solution is not a very efficient way to solve a problem, especially in artificial intelligence applications where speed may be very important. However, it is possible to apply rules of thumb or heuristics to prioritize possible solutions and complete the problem solving process more quickly.
+Typically exhaustively scanning through every possible solution is not a very efficient way to solve a problem, especially in artificial intelligence applications where speed may be very important. However, it is possible to apply rules of thumb or heuristics (https://deepai.org/machine-learning-glossary-and-terms/heuristics) to prioritize possible solutions and complete the problem solving process more quickly.
 
-Some search algorithms will also use mathematical optimization to solve problems. Mathematical optimization is an approach that involves taking a best guess to the solution based on limited information, and then evaluating "nearby" solutions until the best answer is reached. This can be thought of as using "blind hill climbing" as an approach to reach the solution, or "top of the hill."
+Some search algorithms will also use mathematical optimization to solve problems. Mathematical optimization (https://deepai.org/machine-learning-glossary-and-terms/mathematical-optimization) is an approach that involves taking a best guess to the solution based on limited information, and then evaluating "nearby" solutions until the best answer is reached. This can be thought of as using "blind hill climbing" as an approach to reach the solution, or "top of the hill."
 
-There are many other approaches to search optimization, including beam search, simulated annealing, random optimization, and evolutionary computation, which more specifically includes various swarm intelligence algorithms and evolutionary algorithms.
+There are many other approaches to search optimization, including beam search, simulated annealing, random optimization, and evolutionary computation (https://deepai.org/machine-learning-glossary-and-terms/evolutionary-computation), which more specifically includes various swarm intelligence algorithms and evolutionary algorithms (https://deepai.org/machine-learning-glossary-and-terms/evolutionary-algorithms).
 
 ### Other Artificial Intelligence Techniques
 
@@ -96,7 +96,7 @@ Works of fiction detailing inanimate beings that display consciousness date back
 
 Study of the theory of computation (https://deepai.org/machine-learning-glossary-and-terms/theory-of-computation) suggested that machines would be able to simulate a wide range of deductive acts through binary operations. The Turing-Church thesis eventually proposed that any "effectively calculable function is a computable function", meaning that anything that a human can calculate through an algorithmic process, a machine can too calculate.
 
-These ideas eventually led researchers in neurology and cybernetics to begin exploring the idea of building an electronic brain. Walter Pitts and Warren McCullouch formally proposed designs for artificial neurons in 1943.
+These ideas eventually led researchers in neurology and cybernetics to begin exploring the idea of building an electronic brain. Walter Pitts and Warren McCullouch formally proposed designs for artificial neurons (https://deepai.org/machine-learning-glossary-and-terms/neuron) in 1943.
 
 ### Dartmouth and the Formalization of AI Research
 
