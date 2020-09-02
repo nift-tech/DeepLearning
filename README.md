@@ -7,7 +7,9 @@
 
 * AI
 
-** RNN
+* RNN
+
+* NN
 
 
 
