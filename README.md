@@ -7,9 +7,13 @@
 
 * AI
 
+* NN
+
 * RNN
 
-* NN
+* CNN
+
+
 
 
 
