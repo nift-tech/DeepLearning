@@ -23,3 +23,4 @@ Two people, let’s call them Isla and Donnie, talk about food they like to eat.
 
 
 
+###### (https://deepai.org/machine-learning-glossary-and-terms/hidden-markov-model)
