@@ -7,3 +7,8 @@ Pattern recognition is a technique to classify input data into classes or object
 The patterns are made up of individual features, which can be continuous, discrete or even discrete binary variables, or sets of features evaluated together, known as a feature vector. The biggest advantages are that this model will generate a classification of some confidence level for every data point and often reveals subtle, hidden patterns not readily seen with human intuition. Generally, the more feature variables the algorithm is programmed to check for and the more data points available for training, the more accurate it will be. This applies whether the database is labeled or unlabeled.
 
 Which leads to the biggest disadvantages, that extra large datasets are required to generate high probability results, which makes the training time relatively slow and computationally expensive.
+
+
+
+
+###### (https://deepai.org/machine-learning-glossary-and-terms/pattern-recognition)
