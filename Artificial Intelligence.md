@@ -39,15 +39,19 @@ Many debate how much AI is truly used in video games. This is because machine le
 As stated above, artificial intelligence is really the application of machine learning, predictive analysis, and automation, so its applications are vast. AI has been spreading rapidly to technology driven industries, so it is quickly becoming an important element of several other major industries, including:
 
 ##### Manufacturing 
+
 - AI is being used to automate the building of vehicles and other large machinery and equipment
 
 ##### Marketing 
+
 - AI solutions are being used to analyze user behavior and more effectively target potential customers
 
 ##### Employee Recruiting 
+
 - AI technology is now frequently used to match employers to job seekers
 
 ##### Transportation 
+
 - GPS systems and city planners use AI programs to identify and suggest the most efficient routes
 
 As time goes on and artificial intelligence techniques become more widely understood and accessible, more industries will surely benefit from the efficiency and scaling effects that AI can provide.
@@ -77,6 +81,7 @@ Typically exhaustively scanning through every possible solution is not a very ef
 Some search algorithms will also use mathematical optimization to solve problems. Mathematical optimization (https://deepai.org/machine-learning-glossary-and-terms/mathematical-optimization) is an approach that involves taking a best guess to the solution based on limited information, and then evaluating "nearby" solutions until the best answer is reached. This can be thought of as using "blind hill climbing" as an approach to reach the solution, or "top of the hill."
 
 There are many other approaches to search optimization, including beam search, simulated annealing, random optimization, and evolutionary computation (https://deepai.org/machine-learning-glossary-and-terms/evolutionary-computation), which more specifically includes various swarm intelligence algorithms and evolutionary algorithms (https://deepai.org/machine-learning-glossary-and-terms/evolutionary-algorithms).
+
 
 ### Other Artificial Intelligence Techniques
 
