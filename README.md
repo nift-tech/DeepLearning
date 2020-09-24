@@ -1,4 +1,4 @@
-# Deep-Learnings
+# Deep-Learning
 
 
 * DL
